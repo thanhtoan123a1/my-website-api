@@ -29,6 +29,40 @@
       "token": "token2"
     }
   ],
+  "vlogs": [
+    {
+      "title": "Đánh cá buổi tối",
+      "src": "https://www.youtube.com/embed/q0ph9SbyLOc",
+      "id": "1",
+      "description": "Vào một buổi tối thứ 7 đẹp trời mình và những người bạn rủ nhau đi đánh kích giải trí. Địa điểm là một bãi lúa đã được gặt ở thôn Gò pháo.",
+      "created_at": "20/03/2021",
+      "location": "Hợp Thịnh, Huyện Hiệp Hòa, Bắc Giang"
+    },
+    {
+      "title": "Bể cá mini",
+      "src": "https://www.youtube.com/embed/TKa-Lth1olk",
+      "id": "2",
+      "description": "Đôi khi đi làm về mệt mỏi chỉ cần nhìn thấy đàn cá tung tăng bơi lội cũng đỡ phần nào rồi",
+      "created_at": "15/03/2021",
+      "location": "Mỹ Đình, Nam Từ Liêm, Hà Nội"
+    },
+    {
+      "title": "Một buổi vày vò ngoài đồng",
+      "src": "https://www.youtube.com/embed/gsjFTXkhq70",
+      "id": "3",
+      "description": "Một ngày đẹp trời vác kích ra và đi vày bẩn thôi =)))",
+      "created_at": "10/03/2021",
+      "location": "Hợp Thịnh, Huyện Hiệp Hòa, Bắc Giang"
+    },
+    {
+      "title": "Chợ Tết",
+      "src": "https://www.youtube.com/embed/oHKlqVUykIk",
+      "id": "4",
+      "description": "Những ngày Tết trên phố Thắng, mọi người tấp nập đi mua đào quất, các cặp đôi cũng tranh thủ đi hẹn hò, chụp ảnh với đào...",
+      "created_at": "10/02/2021",
+      "location": "Phố Thắng, Hiệp Hòa, Bắc Giang"
+    }
+  ],
   "products": [
     {
       "id": 1,

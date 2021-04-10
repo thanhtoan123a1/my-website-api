@@ -42,6 +42,11 @@ server.post("/login", (req, res, next) => {
     .catch((err) => next(err));
 });
 
+// Get list vlogs
+server.get("/get-vlogs", (req, res, next) => {
+  res.jsonp(db.get("vlogs"));
+});
+
 // Upload files
 server.post("/upload", (req, res, next) => {
   const form = formidable({ multiples: true });
